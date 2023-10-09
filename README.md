@@ -1,4 +1,4 @@
-<h1 align="center">Assalamu Alaikum I'm Matraim</h1>
+<h1 align="center">Hello I'm Matraim Nurmatov</h1>
 <h3 align="center">Frontend developer from Batken</h3>
 
 <h3 align="left">Connect with me:</h3>
