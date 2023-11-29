@@ -1,4 +1,4 @@
-<h2 align="center">Frontend developer from Batken</h2>
+<h2 align="center">Frontend developer </h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
