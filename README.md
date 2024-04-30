@@ -9,7 +9,7 @@
 <a href="https://linkedin.com/in/matraim nurmatov" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/matraim.official" target="_blank"><img src="https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="[https:https://github.com/Matraim)](https://github.com/Matraim)" target="_blank"><img src="https://img.shields.io/badge/GitHub-9932cc?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href="[https://t.me/@Staff_Ashkan](https://t.me/MuhammedIbraghim)" target="_blank"><img src="https://img.shields.io/badge/Telegram-007bff?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+<a href="[https://t.me/MuhammedIbraghim](https://t.me/MuhammedIbraghim)" target="_blank"><img src="https://img.shields.io/badge/Telegram-007bff?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 <a href = "matraim.kg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-00ff00?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
 
